@@ -33,6 +33,23 @@ Passionate about proxies, scripting, game exploits, and backend automation.
 
 ---
 
+
+---
+
+## 🧠 Typing Animation
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&width=435&lines=Stay+low,+code+fast.;Hack+the+planet.;Proxy+online+✔;Backend+deployed.)
+
+
+
+
+---
+
+## 💬 Quote
+
+"Some build games, others build the framework behind them."
+— You know who 😏
+
 ## 🧪 Terminal Snapshot
 
 ```bash
@@ -43,7 +60,6 @@ Initializing...
 Injecting logic into Roblox runtime...
 Linking backend microservices...
 ✅ Success. You're in.
-
 
 
 
