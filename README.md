@@ -45,17 +45,6 @@ Linking backend microservices...
 ✅ Success. You're in.
 
 
----
 
-## 💬 Quote
-
-"Some build games, others build the framework behind them."
-— You know who 😏
-
----
-
-## 🧠 Typing Animation
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&width=435&lines=Stay+low,+code+fast.;Hack+the+planet.;Proxy+online+✔;Backend+deployed.)
 
 
