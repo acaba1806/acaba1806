@@ -1,5 +1,3 @@
-
-```md
 # Hey there! 👋
 
 Welcome to my GitHub profile.  
@@ -37,29 +35,22 @@ Passionate about proxies, scripting, game exploits, and backend automation.
 
 ## 🧪 Terminal Snapshot
 
-```
-acaba1806@github:~$ sudo launch --project proxy-core
-[sudo] password for acaba1806: ********
-> Initializing...
-> Injecting logic into Roblox runtime...
-> Linking backend microservices...
-> ✅ Success. You're in.
-```
+acaba1806@github:~$ sudo launch --project proxy-core [sudo] password for acaba1806: ********
+
+Initializing... Injecting logic into Roblox runtime... Linking backend microservices... ✅ Success. You're in.
+
 
 ---
 
 ## 💬 Quote
 
-```
-"Some build games, others build the framework behind them."  
+"Some build games, others build the framework behind them."
 — You know who 😏
-```
 
 ---
 
 ## 🧠 Typing Animation
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&width=435&lines=Stay+low,+code+fast.;Hack+the+planet.;Proxy+online+✔;Backend+deployed.)
-```
 
----
+
