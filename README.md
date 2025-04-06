@@ -35,9 +35,14 @@ Passionate about proxies, scripting, game exploits, and backend automation.
 
 ## 🧪 Terminal Snapshot
 
-acaba1806@github:~$ sudo launch --project proxy-core [sudo] password for acaba1806: ********
+```bash
+acaba1806@github:~$ sudo launch --project proxy-core
+[sudo] password for acaba1806: ********
 
-Initializing... Injecting logic into Roblox runtime... Linking backend microservices... ✅ Success. You're in.
+Initializing...
+Injecting logic into Roblox runtime...
+Linking backend microservices...
+✅ Success. You're in.
 
 
 ---
