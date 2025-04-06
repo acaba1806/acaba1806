@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**acaba1806/acaba1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.  
+I'm a self-taught programmer who enjoys building tools, proxies, and working with code that makes systems tick.
 
-Here are some ideas to get you started:
+## 💻 Languages I use:
+- JavaScript
+- Lua
+- Python
+- PHP
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning the C family (C, C++, C#) to expand into game engines like Unity and optimize backend workflows.
+
+---
+
+### 🧠 Projects I’m into:
+- **Roblox scripting** and client-side architecture.
+- Custom proxies and backend microservices.
+- Automation and security tooling.
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=acaba1806&show_icons=true&theme=radical&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaba1806&layout=compact&theme=radical)
+
+---
+
+> *“Some build games, others build the framework behind them.”*  
+> —You know who 😏
